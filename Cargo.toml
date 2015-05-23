@@ -1,0 +1,4 @@
+[package]
+name = "rgb"
+version = "0.1.0"
+authors = ["Florian Hartwig <florian.j.hartwig@gmail.com>"]
